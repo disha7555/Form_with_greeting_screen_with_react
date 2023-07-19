@@ -1,0 +1,11 @@
+.register-container{
+   
+    width: 500px
+  
+}
+.div1{
+    max-width:10000px;
+    width: 1365px !important;
+    height: 663px;
+background-image: linear-gradient(white,#CDB0EE);
+}

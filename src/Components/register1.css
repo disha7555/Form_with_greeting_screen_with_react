@@ -1,11 +1,16 @@
 .register-container{
    
-    width: 500px
-  
+    width: 100%;
+    max-width:400px;/* Adjust max-width as per your design */
+    margin: 0 auto
 }
 .div1{
-    max-width:10000px;
-    width: 100% !important;
+    /* max-width:10000px; */
+    width: 100vw !important;
     height: 100vh;
-background-image: linear-gradient(white,#CDB0EE);
+    display: flex;
+  justify-content: center;
+  align-items: center;
+
+background-color: #CDB0EE;
 }
